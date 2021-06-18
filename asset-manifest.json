@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ytube-clone/static/css/main.6875b2c6.chunk.css",
-    "main.js": "/ytube-clone/static/js/main.73486291.chunk.js",
-    "main.js.map": "/ytube-clone/static/js/main.73486291.chunk.js.map",
+    "main.js": "/ytube-clone/static/js/main.fe3961fc.chunk.js",
+    "main.js.map": "/ytube-clone/static/js/main.fe3961fc.chunk.js.map",
     "runtime-main.js": "/ytube-clone/static/js/runtime-main.5c706f27.js",
     "runtime-main.js.map": "/ytube-clone/static/js/runtime-main.5c706f27.js.map",
     "static/js/2.74f157e3.chunk.js": "/ytube-clone/static/js/2.74f157e3.chunk.js",
     "static/js/2.74f157e3.chunk.js.map": "/ytube-clone/static/js/2.74f157e3.chunk.js.map",
     "index.html": "/ytube-clone/index.html",
-    "precache-manifest.8774654527962b621903ec23988fdcba.js": "/ytube-clone/precache-manifest.8774654527962b621903ec23988fdcba.js",
+    "precache-manifest.a986f2ff6f5926fea8e04e44827a484b.js": "/ytube-clone/precache-manifest.a986f2ff6f5926fea8e04e44827a484b.js",
     "service-worker.js": "/ytube-clone/service-worker.js",
     "static/css/main.6875b2c6.chunk.css.map": "/ytube-clone/static/css/main.6875b2c6.chunk.css.map",
     "static/js/2.74f157e3.chunk.js.LICENSE.txt": "/ytube-clone/static/js/2.74f157e3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5c706f27.js",
     "static/js/2.74f157e3.chunk.js",
     "static/css/main.6875b2c6.chunk.css",
-    "static/js/main.73486291.chunk.js"
+    "static/js/main.fe3961fc.chunk.js"
   ]
 }

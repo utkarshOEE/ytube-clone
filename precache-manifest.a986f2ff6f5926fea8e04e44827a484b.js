@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "263ea9e4e16203757d7167effb89812c",
+    "revision": "9e0116716f63b7de5afa2f424f241a36",
     "url": "/ytube-clone/index.html"
   },
   {
-    "revision": "6c40192697d5cc06444a",
+    "revision": "552b343f49981a8e435e",
     "url": "/ytube-clone/static/css/main.6875b2c6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ytube-clone/static/js/2.74f157e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c40192697d5cc06444a",
-    "url": "/ytube-clone/static/js/main.73486291.chunk.js"
+    "revision": "552b343f49981a8e435e",
+    "url": "/ytube-clone/static/js/main.fe3961fc.chunk.js"
   },
   {
     "revision": "65dcb07ec1cef81fe1b1",
